@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Simmu</title>
+  <subtitle>越努力，越幸运。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xiammu.github.io/"/>
+  <updated>2016-06-07T08:48:34.000Z</updated>
+  <id>http://xiammu.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>the first picture</title>
+    <link href="http://xiammu.github.io/2016/06/07/the-first-picture/"/>
+    <id>http://xiammu.github.io/2016/06/07/the-first-picture/</id>
+    <published>2016-06-07T07:43:50.000Z</published>
+    <updated>2016-06-07T08:48:34.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;一个人来到田纳西&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;毫无疑问&lt;/strong&gt;&lt;br&gt;&lt;em&gt;我做的馅饼&lt;br&gt;是全天下&lt;/em&gt;&lt;br&gt;&lt;em&gt;最好吃的&lt;/em&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;一个人来到田纳西&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;毫无疑问&lt;/strong&gt;&lt;br&gt;&lt;em&gt;我做的馅饼&lt;br&gt;是全天下&lt;/em&gt;&lt;br&gt;&lt;em&gt;最好吃的&lt;/em&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="感想" scheme="http://xiammu.github.io/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
+  
+</feed>
